@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
+
 
 # About Me 
 
@@ -21,7 +21,7 @@ In my spare time, I enjoy photography, running, swimming, watching anime, and ta
 
 
 
-
+---
 
 
 
